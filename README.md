@@ -26,7 +26,7 @@ python grafo_bfs.py
 ## 🧱 Estrutura do Projeto
 
     .
-    ├── grafo_bfs.py      
+    ├── Atividade Avaliativa 4 - Busca em Largura.py      
     └── README.md         
 
 ------------------------------------------------------------------------
