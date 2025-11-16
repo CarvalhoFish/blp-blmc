@@ -18,7 +18,7 @@ O trabalho inclui:
 2.  Rode o seguinte comando no terminal:
 
 ``` bash
-python grafo_bfs.py
+python Atividade Avaliativa 4 - Busca em Largura.py
 ```
 
 ------------------------------------------------------------------------
