@@ -60,13 +60,9 @@ Tudo diretamente pelo terminal.
 
 ## 👥 Integrantes do Grupo
 
--   Nome 1\
--   Nome 2\
--   Nome 3\
--   Nome 4
-
-*(Edite com os nomes do seu grupo.)*
-
+-   Lucas Henrique Pereira Rocha
+-   Rian Moraes Carvalho
+  
 ------------------------------------------------------------------------
 
 ## 📚 Requisitos do Trabalho
