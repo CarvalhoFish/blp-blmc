@@ -22,7 +22,7 @@ ponderado**, utilizando a lógica do BFS para rastrear pais.
   
 ## Requisitos do Trabalho
 
-- Implementação de BFS\
-- Implementação de menor caminho\
-- Estrutura de grafo\
+- Implementação de BFS
+- Implementação de menor caminho
+- Estrutura de grafo
 - Envio via GitHub
